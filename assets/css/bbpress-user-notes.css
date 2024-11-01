@@ -1,0 +1,21 @@
+.bbpress-user-notes-toggle {
+    cursor: pointer;
+}
+
+.bbpress-user-note-single {
+    display: inline-block;
+    width: 100%;
+    border-left: 2px solid #00a0d2;
+    padding: .5rem;
+    margin-bottom: 1rem;
+}
+.bbpress-user-note-meta {
+    font-style: italic;
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+}
+
+.bbpress-user-notes {
+    display: none;
+}
